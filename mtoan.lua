@@ -9324,7 +9324,7 @@ spawn(function()
     end
 end);
 v14:Notify({
-    Title = "Min Gaming",
+    Title = "Toàn Gaming",
     Content = "Tải Xong",
     Duration = 10
 });
